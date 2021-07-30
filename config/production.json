@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://venkat:EteamInc123@eteaminc.tworq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecretToken",
+    "githubCliendId": "84a094690be3e666839c",
+    "githubSceret": "8e056f0dc59780b6877046a685e08ae5e44e44d7"
+}
